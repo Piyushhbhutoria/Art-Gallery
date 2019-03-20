@@ -1,6 +1,5 @@
-<?php include ('config.php') ?>
-
 <?php
+include ('config.php');
 $name = $_POST['name'];
 $addr = $_POST['addr'];
 $tads = $_POST['tads'];

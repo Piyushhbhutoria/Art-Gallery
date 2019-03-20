@@ -445,3 +445,15 @@ section {
 	outline:0;
 	outline: none;
 }
+th
+{
+	height: 30px;
+	width: 100px;
+	text-align: center;
+}
+td
+{
+	height: 30px;
+	width: 100px;
+	text-align: center;
+}

@@ -1,3 +1,3 @@
 <?php
-mysqli_connect("localhost","root","empire","ravi") or die (mysqli_error());
+$con = mysqli_connect("localhost","root","","ravi") or die (mysqli_error());
 ?>

@@ -1,6 +1,5 @@
-<?php include ('config.php') ?>
-
 <?php
+include ('config.php');
 $wonc = $_POST['wonc'];
 $poet = $_POST['poet'];
 $title = $_POST['title'];
